@@ -1,6 +1,4 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+package edu.erick.extrutura.execoes;
 
 public class TratamentoExecoes {
     public static void main(String[] args) throws Exception {

@@ -1,3 +1,4 @@
+package edu.erick.extrutura;
 
 public class Escopo {
     // Escopo de classe (variável de instância)
