@@ -1,0 +1,32 @@
+
+Para gerar documentação Java HTML, você pode usar o seguinte comando:
+
+javadoc -d <destino> <arquivos-java>
+Onde:
+
+-d especifica o diretório onde a documentação será gerada.
+<arquivos-java> especifica os arquivos Java que você deseja documentar.
+Por exemplo, se você tiver um código-fonte Java chamado meu-codigo.java, você pode gerar a documentação da seguinte forma:
+
+javadoc -d docs meu-codigo.java
+Isso gerará a documentação HTML no diretório docs.
+
+Você também pode usar as seguintes opções para personalizar a documentação HTML:
+
+-doctitle especifica o título da documentação.
+-windowtitle especifica o título da janela do navegador da documentação.
+-stylesheetfile especifica o arquivo CSS que será usado para formatar a documentação.
+Por exemplo, para gerar documentação HTML com um título personalizado, você pode usar o seguinte comando:
+
+javadoc -d docs -doctitle "Minha Documentação" meu-codigo.java
+Isso gerará a documentação HTML no diretório docs com o título "Minha Documentação".
+
+Para obter mais informações sobre a geração de documentação HTML no Java, consulte a documentação do JDK.
+
+Aqui estão algumas dicas para gerar documentação Java HTML:
+
+Use comentários especiais para documentar o seu código. Os comentários especiais começam com dois pontos (//) ou um asterisco (*).
+Use as tags @author e @version para documentar o autor e a versão do código.
+Use as tags @param e @return para documentar os parâmetros e o valor de retorno de métodos.
+Use as tags @see para documentar as classes e métodos relacionados.
+A documentação bem escrita pode ajudar outros desenvolvedores a entender o seu código e a usá-lo de forma eficaz.

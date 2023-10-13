@@ -1,0 +1,20 @@
+
+As 52 palavras reservadas do Java podem ser classificadas de acordo com sua usabilidade, considerando as regras da linguagem, da seguinte forma:
+
+Palavras reservadas essenciais: São palavras que são essenciais para a linguagem e não podem ser usadas para outros fins. Exemplos: class, extends, implements, public, static, void, return.
+Palavras reservadas opcionais: São palavras que podem ser usadas para melhorar a legibilidade e a clareza do código, mas não são essenciais. Exemplos: final, abstract, private, protected, synchronized, throw, try.
+Palavras reservadas sem uso: São palavras que não têm nenhum uso prático na linguagem Java. Exemplos: goto, const, native, strictfp.
+Aqui está uma tabela com a classificação de usabilidade das palavras reservadas do Java:
+
+Classificação	Exemplos
+Essenciais	class, extends, implements, public, static, void, return
+Opcionais	final, abstract, private, protected, synchronized, throw, try
+Sem uso	goto, const, native, strictfp
+É importante observar que essa classificação é subjetiva e pode variar de acordo com a opinião do desenvolvedor. No entanto, é uma boa maneira de entender como as palavras reservadas são usadas na linguagem Java.
+
+Aqui estão algumas observações sobre a classificação de usabilidade das palavras reservadas do Java:
+
+Palavras reservadas essenciais: Essas palavras são essenciais para a linguagem e não podem ser usadas para outros fins. Elas são usadas para definir classes, interfaces, métodos, atributos e outros elementos da linguagem.
+Palavras reservadas opcionais: Essas palavras podem ser usadas para melhorar a legibilidade e a clareza do código, mas não são essenciais. Elas podem ser usadas para especificar modificadores de acesso, tipos de dados, exceções e outros elementos da linguagem.
+Palavras reservadas sem uso: Essas palavras não têm nenhum uso prático na linguagem Java. Elas foram descontinuadas em versões anteriores da linguagem e não devem ser usadas em código novo.
+É importante entender a classificação de usabilidade das palavras reservadas do Java para evitar erros de compilação e runtime.
