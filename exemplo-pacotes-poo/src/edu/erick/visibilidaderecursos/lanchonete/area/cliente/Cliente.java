@@ -1,4 +1,4 @@
-package edu.erick.lanchonete.area.cliente;
+package edu.erick.visibilidaderecursos.lanchonete.area.cliente;
 
 public class Cliente {
 	public void escolherLanche() {

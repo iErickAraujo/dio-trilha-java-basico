@@ -1,4 +1,4 @@
-package edu.erick.lanchonete.atendimento.cozinha;
+package edu.erick.visibilidaderecursos.lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
 	private void controlarEntrada() {

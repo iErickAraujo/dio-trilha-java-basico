@@ -1,9 +1,9 @@
-package edu.erick.lanchonete;
+package edu.erick.visibilidaderecursos.lanchonete;
 
-import edu.erick.lanchonete.area.cliente.Cliente;
-import edu.erick.lanchonete.atendimento.Atendente;
-import edu.erick.lanchonete.atendimento.cozinha.Almoxarife;
-import edu.erick.lanchonete.atendimento.cozinha.Cozinheiro;
+import edu.erick.visibilidaderecursos.lanchonete.area.cliente.Cliente;
+import edu.erick.visibilidaderecursos.lanchonete.atendimento.Atendente;
+import edu.erick.visibilidaderecursos.lanchonete.atendimento.cozinha.Almoxarife;
+import edu.erick.visibilidaderecursos.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
     public static void main(String[] args) {

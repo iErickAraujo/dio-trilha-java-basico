@@ -1,4 +1,4 @@
-package edu.erick.lanchonete.atendimento;
+package edu.erick.visibilidaderecursos.lanchonete.atendimento;
 
 public class Atendente {
 	public void servindoMesa() {
